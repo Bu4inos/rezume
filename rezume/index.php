@@ -13,16 +13,6 @@
 		.title {
 			text-indent: 0px;
 		}
-		<!--.container{
-			width: 30px;
-			height: 100px;
-			margin: 20px;
-			background: #eee;
-			align
-
-			border: 2px solid #000;
-
-		}-->
 	</style>
 </head>
 <body>
